@@ -1,0 +1,9 @@
+First Step: Attack Simulation: Developed a real looking bank payment interface and simulated a Cross-Site
+Scripting payloads attack using the BeEF framework to automatically hijack form fields and auto-
+submit a transaction.
+Second Step: Defense Implementation: Developed a core defense mechanism using a Rule-Based Heuristic to suc-
+cessfully distinguish between legitimate human input (key down Strokes) and automated form ma-
+nipulation.
+Third Step: Dual-Channel Incident Response: Implemented a two-stage incident response system that triggers
+both an immediate client-side Web Warning and an Fraudulent Email Alert upon confirmed automated
+fraud.
